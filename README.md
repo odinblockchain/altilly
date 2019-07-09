@@ -2,7 +2,7 @@
 
 Generate an API key from Altilly at https://www.altilly.com/user/profile/api
 
-# Install
+## Install
 ```
 npm install
 npm start
@@ -13,9 +13,9 @@ http://localhost:8081/limitbuy
                      /limitsell
                      /marketbuy
 
-Examples
+#Examples
 
-# Bash
+## Bash
 ```
 #!/bin/sh
 username="yourapikey"
