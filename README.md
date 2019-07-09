@@ -4,8 +4,14 @@ Generate an API key from Altilly at https://www.altilly.com/user/profile/api
 
 # Install
 ```
+npm install
 npm start
 ```
+
+Send requests to the following endpoints:
+http://localhost:8081/limitbuy
+                     /limitsell
+                     /marketbuy
 
 Examples
 
